@@ -1,1 +1,1 @@
-# MD版本的leetcode解题方法与思路
+# 部分leetcode解题方法
